@@ -4,6 +4,6 @@ The user can add a prefered website and after that he can view the website or de
 is used for keeping track of the data enter by the user.
 
 Technologies used for this project:
--HTML5
--Boostrap
--Javasript ES6
+- HTML5
+- Boostrap
+- Javasript ES6
